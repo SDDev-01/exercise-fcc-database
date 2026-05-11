@@ -337,7 +337,7 @@ INSERT INTO public.planet VALUES (12, 'doce', 'XII', 121, true, 1212.2000, 6);
 
 INSERT INTO public.star VALUES (1, 'sabes que', 'a la proxima numeros', 11, 1000.5000, 1);
 INSERT INTO public.star VALUES (2, 'empezare despues', 'de esto', 10013, 1567.5400, 2);
-INSERT INTO public.star VALUES (3, 'luem', 'no eliminare mi nombre', 5649, 6.1500, 3);
+INSERT INTO public.star VALUES (3, 'luem', 'no eliminare  nombre', 5649, 6.1500, 3);
 INSERT INTO public.star VALUES (4, 'emlu', 'el otro es mas bonito rima mas, bueno el siguiente con numeros lol', 654896, 6486.5400, 4);
 INSERT INTO public.star VALUES (5, 'cinco', 'V', 55, 56466.2150, 5);
 INSERT INTO public.star VALUES (6, 'sexto', 'VI?', 67, 676767.6767, 6);
